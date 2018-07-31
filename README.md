@@ -2,9 +2,9 @@
 A simple haproxy frontend for a pool of loosely coupled pool of Shibboleth IdP v3 servers.
 
 index
-* [README.md#H1]
-* [README.md#H2]
-* [README.md#H3]
+* [README.md#H1](#H1)
+* [README.md#H2](#H2)
+* [README.md#H3](#H3)
 
 # H1
 ## H2
